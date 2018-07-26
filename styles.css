@@ -26,9 +26,9 @@ main {
    padding-top: 15px;
 }
 aside {
-   color: white;
+  color: white;
   padding: 30px;
-  background-color: #878f99
+  background-color: #878f99;
 }
 article {
   color: black;
@@ -39,6 +39,6 @@ article {
  footer {
   color: white;
   padding: 30px;
-  background-color:
+  background-color: #b2ad7f;
 }
    
