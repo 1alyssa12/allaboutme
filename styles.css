@@ -5,9 +5,9 @@ body {
 }
 nav {
   padding: 30px;
-  background-color: #6b5b95;
+  background-color: #d64161;
   position: sticky;
   top: 0;
   text-shadow: 1px 1px 0 #444;
-  color: black;
+  color: white;
 }
