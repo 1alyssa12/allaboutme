@@ -5,11 +5,11 @@ body {
 }
 nav {
   padding: 30px;
-  background-color: #a2b9bc;
+  background-color: #80ced6;
   position: sticky;
   top: 0;
   text-shadow: 1px 1px 0 #444;
-  color: white;
+  color: black;
 }
 header {
   padding: 30px;
